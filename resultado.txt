@@ -1,0 +1,2 @@
+A soma entre 23 e 32 é: 55 
+A soma entre 7 e 16 é: 23 
